@@ -1,2 +1,2 @@
 # InfinityScroll
- infinite scroll & Unsplash API
+ Gives the impression to scroll infinitely down the page.
